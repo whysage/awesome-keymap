@@ -1,6 +1,6 @@
 # Awesome Developer IDE Keymap
 
-####Custom ide keymap for best performance
+Custom ide keymap for best performance.
 
 Run console (exeQte) program: ALT + Q
 
