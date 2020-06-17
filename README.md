@@ -11,48 +11,47 @@ and file keymap.zip from this repository
 ## Debug and Run
 Start Debug console program: ALT + Z
 
-Run to Cursor: ALT + C
+Run to **C**ursor: ALT + C
 
-Step forward in debug: ALT + F
+Step **F**orward in debug: ALT + F
 
-Step into (Enter): ALT + E
+Step into (**E**nter): ALT + E
 
-Debug Resume/Run program: ALT + R
+Debug **R**esume program: ALT + R
 
-Stop debug: ALT + S
+**S**top debug: ALT + S
 
-Add to variable in debug to Watch list: ALT + W
+Add to variable in debug to **W**atch list: ALT + W
 
-Add break Point: ALT + P
+Add break **P**oint: ALT + P
 
-Enable Debugging: ALT + D
+Enable **D**ebugging: ALT + D
 
-Open run/debug  confiGuration: ALT + G
+Open run/debug  confi**G**uration: ALT + G
 
-Run console (exeQte) program: ALT + Q
+Run console (exe**Q**te) program: ALT + Q
 
 
 ## Git
 
-Git open Branches: ALT + B
+Git open **B**ranches: ALT + B
 
-Git Annotate: ALT + A
+Git **A**nnotate: ALT + A
 
-Git updaTe project: ALT + T
+Git upda**T**e project: ALT + T
 
 ## Other
 
-Open resent project: ALT + O (letter o)
+**O**pen resent project: ALT + O (letter o)
 
-Open error description (Help): ALT + H
+Open error description (**H**elp): ALT + H
    
-Open context Menu: ALT + M
+Open context **M**enu: ALT + M
 
-Open terminaL: ALT + L
+Open termina**L**: ALT + L
 
-File Structure: CTRL + S
+File **S**tructure: CTRL + S
 
 Database panel: ALT + 2
 
 Service panel: ALT + 3
-
