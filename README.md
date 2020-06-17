@@ -2,6 +2,12 @@
 
 Custom ide keymap for best performance.
 
+To import it to .idea (PyCharm, PHPStorm, etc.) use:
+
+File -> Manage IDE Setting -> Import settings
+ 
+and file keymap.zip from this repository 
+
 ## Debug and Run
 Start Debug console program: ALT + Z
 
