@@ -1,10 +1,12 @@
 # Awesome IDE Keymap
 
-Custom ide keymap for best performance.
+Custom ide keymap for best performance. 
 
-To import it to .idea (PyCharm, PHPStorm, etc.) use:
+Easy to learn and comfortable to use.
 
-File -> Manage IDE Setting -> Import settings
+To import it to .idea (PyCharm, PHPStorm, etc.):
+
+File > Manage IDE Setting > Import settings
  
 and file keymap.zip from this repository 
 
