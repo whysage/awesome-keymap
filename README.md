@@ -42,6 +42,10 @@ Git **A**nnotate: ALT + A
 
 Git upda**T**e project: ALT + T
 
+## Refactore
+
+Re**N**ame: ALT + N
+
 ## Other
 
 **O**pen resent project: ALT + O (letter o)
