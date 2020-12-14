@@ -42,7 +42,7 @@ Git **A**nnotate: ALT + A
 
 Git upda**T**e project: ALT + T
 
-## Refactore
+## Refactor
 
 Re**N**ame: ALT + N
 
