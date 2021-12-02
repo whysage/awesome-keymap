@@ -11,7 +11,9 @@ File > Manage IDE Setting > Import settings
 and file keymap.zip from this repository 
 
 ## Debug and Run
-Start Debug console program: ALT + Z
+Start Debug console program from configuration: ALT + Z
+
+Start Debug current file: ALT + SHIFT + Z
 
 Run to **C**ursor: ALT + C
 
@@ -31,7 +33,9 @@ Enable **D**ebugging: ALT + D
 
 Open run/debug  confi**G**uration: ALT + G
 
-Run console (exe**Q**te) program: ALT + Q
+Run console (exe**Q**te) program from configuration: ALT + Q
+
+Run console current file (exe**Q**te) program: ALT + SHIFT + Q
 
 
 ## Git
